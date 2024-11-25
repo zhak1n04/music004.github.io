@@ -47,7 +47,7 @@ new Vue({
         {
           name: "Fragility",
           artist: "Flawed Mangoes",
-          cover: "img/6.jpg",
+          cover: "img/6.jpeg",
           source: "mp3/6.mp3",
         }
         
