@@ -49,6 +49,12 @@ new Vue({
           artist: "Flawed Mangoes",
           cover: "img/6.jpeg",
           source: "mp3/6.mp3",
+        },
+        {
+          name: "Dramamine",
+          artist: "Flawed Mangoes",
+          cover: "img/7.jpeg",
+          source: "mp3/7.mp3",
         }
         
       ],
