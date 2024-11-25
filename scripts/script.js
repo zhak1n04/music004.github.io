@@ -32,15 +32,15 @@ new Vue({
         
         },
         {
-          name: "Абдуллин Д",
-          artist: "Leonard Cohen",
+          name: "Ocean Eyes",
+          artist: "Billie Eilish",
           cover: "img/4.jpg",
           source: "mp3/4.mp3",
        
         },
         {
-          name: "Жакин А",
-          artist: "Moby",
+          name: "Wildflower",
+          artist: "Billie Eilish",
           cover: "img/5.jpg",
           source: "mp3/5.mp3",
         }
