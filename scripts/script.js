@@ -53,7 +53,7 @@ new Vue({
         {
           name: "Dramamine",
           artist: "Flawed Mangoes",
-          cover: "img/7.jpeg",
+          cover: "img/7.jpg",
           source: "mp3/7.mp3",
         }
         
