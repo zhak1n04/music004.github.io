@@ -43,6 +43,13 @@ new Vue({
           artist: "Billie Eilish",
           cover: "img/5.jpg",
           source: "mp3/5.mp3",
+        },
+        
+        {
+          name: "Fragility",
+          artist: "Flawed Mangoes",
+          cover: "img/6.jpg",
+          source: "mp3/6.mp3",
         }
         
       ],
